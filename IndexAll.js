@@ -4,7 +4,7 @@ function getIndexAll(list, input) {
     var outputList = [];
 
     while (firstIndex < lastIndex) {
-        if (findValue == findArray[firstIndex]) {
+        if (input == list[firstIndex]) {
             outputList.push(firstIndex);
         }
         firstIndex++;
