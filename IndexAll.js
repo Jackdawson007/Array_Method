@@ -1,8 +1,6 @@
 function getIndexAll(list, input) {
-    var findArray = list;
-    var findValue = input;
-    var firstIndex = findArray.indexOf(findValue);
-    var lastIndex = findArray.lastIndexOf(findValue) + 1;
+    var firstIndex = list.indexOf(input);
+    var lastIndex = list.lastIndexOf(input) + 1;
     var outputList = [];
 
     while (firstIndex < lastIndex) {
