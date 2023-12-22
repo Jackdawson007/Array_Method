@@ -30,4 +30,4 @@ indexAll.prototype.getIndexAll = function (list, input) {
 // var input = 5;
 // var myObj = new indexAll(list,input);
 
-console.log(myObj.getIndexAll(list,input));
+//console.log(myObj.getIndexAll(list,input));
