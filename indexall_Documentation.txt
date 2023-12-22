@@ -1,0 +1,13 @@
+JAVASCRIPT ARRAY METHOD
+   This is a Javascript Array Method for finding the all indexes in the Array from using my method you can find the all the index of your given number.
+   
+
+Notes :
+	* create new object to use my method 
+		Example : var example = new indexAll(yourList, yourfindValue);
+	* Next call my array method with the created Object 
+		Example : example.getIndexAll(yourList, yourfindValue);
+	* Finally if you can store the output list into your variable.
+		
+	Thank You --!
+
